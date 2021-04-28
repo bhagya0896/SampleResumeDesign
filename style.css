@@ -1,0 +1,155 @@
+
+.my-style1{
+
+background-color:teal;
+border-style:double;
+color:white;
+padding:10px;
+font-size:10px; 
+margin:5px;
+justify-content: left ;
+height:98%;
+
+
+}
+
+.my-style1 h6{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing:2px;
+    font-weight:bold
+}
+
+.my-style1 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing:2px;
+    font-weight:bold
+}
+
+.my-style1 p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing:1px;
+ 
+}
+
+.my-style1 li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing:1px;
+ 
+}
+
+.my-style2{
+
+    background-color:white;
+    color:teal;
+    padding:20px;
+    font-size:10px; 
+    margin:5px
+    
+    }
+
+.my-style2 h6{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        letter-spacing:2px;
+        font-weight:bold
+    }
+    
+.my-style2 p{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        letter-spacing:1px;
+     
+    }
+    
+.my-style2 li{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        letter-spacing:1px;
+     
+    }
+.my-style2 b{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        letter-spacing:1px;
+        font-size:12px ;
+     
+    }
+    
+.my-style2 td{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        letter-spacing:1px;
+        width:200px;
+        
+     
+    }
+
+input[type=range]
+    {
+    -webkit-appearance: none;
+    width:150px;
+    }
+
+ input[type=range]::-webkit-slider-runnable-track {
+    height: .35em;
+    background: rgb(103, 173, 175);
+    border: none;
+    border-radius: 3px;
+    align-items: center;
+    padding-left:20px
+    
+    }
+
+    input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 12px;
+    width: 10px;
+    border-radius: 50%;
+    background: cadetblue;
+    margin-top: -4px;
+    }
+
+    input[type=range]:focus {
+        outline: none;
+        }
+
+.my-style3{
+
+    background-color:teal;
+    border-style:double;
+    color:white;
+    padding:10px;
+    font-size:10px; 
+    margin:5px;
+    justify-content: left ;
+    height:98%;
+ 
+    }
+    .my-style3 b{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        letter-spacing:1px;
+        font-size:12px ;
+     
+    }
+    
+    .my-style3 section{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        letter-spacing:1px;
+     
+    }
+
+    .my-style3 h6{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        letter-spacing:2px;
+        font-weight:bold
+    }
+
+    .my-style3 li{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        letter-spacing:1px;
+     
+    }
+  
+img {
+        width:80px;
+        padding: top 0;
+        border-radius: 50%;
+        align-items: center;
+        
+    }
